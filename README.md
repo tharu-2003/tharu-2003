@@ -170,18 +170,36 @@ const tharusha = {
 
 <div align="center">
 
-  <!-- Badges -->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/tharusha-sandaruwan-dahanayaka/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
-  <a href="sandaruwantharusha968@gmail.com">
+
+  <!-- Email -->
+  <a href="mailto:sandaruwantharusha968@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  
+
+  <!-- Portfolio -->
   <a href="https://my-portfolio-d2648.web.app" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/>
   </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@tharusha_sandaruwan" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/profile.php?id=100069591377491&sfnsn=wa&mibextid=RUbZ1f" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+
+  <!-- Medium -->
+  <a href="https://medium.com/@sandaruwantharusha968" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+
 </div>
 
 ---
