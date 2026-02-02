@@ -1,16 +1,17 @@
 <div align="center">
 
-<!-- Stunning Animated Header with Particles -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0080,10:FF0040,30:FF4000,50:FF8000,70:FFB000,90:FFFF00,100:80FF00&height=350&section=header&text=Tharusha%20Sandaruwan&fontSize=55&fontColor=fff&animation=fadeInOut&fontAlignY=40&desc=✨%20Crafting%20Digital%20Dreams%20with%20Code%20✨&descAlignY=65&descSize=24" width="100%" />
+<!-- Professional Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=Tharusha%20Sandaruwan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=52&descSize=20" width="100%" />
 
-<!-- Additional Animated Elements -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=🔥+Welcome+to+my+Coding+Universe!;💫+Building+the+Future+One+Line+at+a+Time;⚡+Innovation+%7C+Creativity+%7C+Excellence" alt="Welcome Message" />
 </div>
 
-<!-- Glowing Particle Effect -->
+<!-- Professional Introduction -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  
+### 👨‍💻 Crafting Digital Solutions with Precision & Passion
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+Enthusiast;React+%7C+TypeScript+Developer;Building+Scalable+Web+Solutions)](https://git.io/typing-svg)
+
 </div>
 
 <!-- Animated Profile Stats with Glowing Effect -->
@@ -47,27 +48,34 @@
 
 <div align="center"> 
 
-<!-- Main Technologies -->
 <!-- Frontend -->
-<h3>🚀 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,javascript,html,css&theme=dark&perline=6" />
+<h3>🚀 Frontend</h3> 
+<img src="https://skillicons.dev/icons?i=react,reactnative,expo,typescript,tailwind,bootstrap,javascript,html,css,redux&theme=dark&perline=10" />
 <br><br>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Framer%20Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" />
 
 <!-- Backend -->
 <h3>⚙️ Backend</h3>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,python&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,firebase&theme=dark&perline=6" />
 <br><br>
 <img src="https://img.shields.io/badge/-Java-FF6B6B?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000000" />
 
 <!-- Databases -->
 <h3>🗄️ Databases</h3>
@@ -76,41 +84,50 @@
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000" />
 
-<!-- Tools & Design -->
-<h3>🛠️ Tools & Design</h3>
-<img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark&perline=6" />
+<!-- Cloud / Deployment -->
+<h3>☁️ Cloud & Deployment</h3>
+<img src="https://skillicons.dev/icons?i=vercel,firebase&theme=dark&perline=6" />
+<br><br>
+<img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
+
+<!-- Tools & Testing -->
+<h3>🧪 Tools & Testing</h3>
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman&theme=dark&perline=6" />
 <br><br>
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000" />
 
 </div>
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <!-- GitHub Stats Cards -->
+
+  <!-- Main Stats -->
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tharu-2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9" />
 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tharu-2003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9" />
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tharu-2003&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9" />
 
 </div>
 
-<div align="center">
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tharu-2003&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=4ECDC4&sideLabels=C9D1D9&dates=C9D1D9" />
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tharu-2003&theme=tokyo-night&hide_border=true" width="100%" />
+<div align="center">
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharu-2003&theme=tokyo-night&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=C9D1D9&hide_border=true" />
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
