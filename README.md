@@ -30,14 +30,15 @@
 
 <div align="left">
 
-- 🎓 I'm **Tharusha Sandaruwan Dahanayaka**, a passionate **Software Engineer** from Sri Lanka 🇱🇰
-- 💡 **Tech Stack**: `Java` • `JavaScript` • `HTML` • `CSS` • `MySQL` • `Spring Boot` • `React` • `MongoDB` • `TypeScript`
-- 🌟 **Focus**: Building elegant, responsive web applications with clean code
-- 🎯 **Goal**: Becoming a Full-Stack Developer and contributing to open source
-- 💻 **Current Project**: Working on innovative web solutions
-- 📫 **Contact**: **sandaruwantharusha968@gmail.com**
-- 🔗 **LinkedIn**: [tharusha-sandaruwan-dahanayaka](https://www.linkedin.com/in/tharusha-sandaruwan-dahanayaka/)
-- 🌐 **Portfolio**: [Live Portfolio](https://my-portfolio-d2648.web.app) ✨
+  - 🎓 I'm **Tharusha Sandaruwan Dahanayaka**, a passionate **Software Engineer** from Sri Lanka 🇱🇰
+  - 💡 **Tech Stack**: `Java` • `JavaScript` • `HTML` • `CSS` • `MySQL` • `Spring Boot` • `React` • `MongoDB` • `TypeScript`
+  - 🌟 **Focus**: Building elegant, responsive web applications with clean code
+  - 🎯 **Goal**: Becoming a Full-Stack Developer and contributing to open source
+  - 💻 **Current Project**: Working on innovative web solutions
+  - 📫 **Contact**: **sandaruwantharusha968@gmail.com**
+  - 🔗 **LinkedIn**: [tharusha-sandaruwan-dahanayaka](https://www.linkedin.com/in/tharusha-sandaruwan-dahanayaka/)
+  - * 📺 **YouTube**: [Tharusha Sandaruwan](https://www.youtube.com/@tharusha_sandaruwan) 🎥
+  - 🌐 **Portfolio**: [Live Portfolio](#) ✨
 
 </div>
 
@@ -45,59 +46,47 @@
 
 
 ## 🛠️ Tech Arsenal
-
 <div align="center"> 
 
-<!-- Frontend -->
 <h3>🚀 Frontend</h3> 
-<img src="https://skillicons.dev/icons?i=react,reactnative,expo,typescript,tailwind,bootstrap,javascript,html,css,redux&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=react,reactnative,expo,typescript,tailwind,bootstrap,javascript,html,css,redux,jquery&theme=dark&perline=11" />
 <br><br>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" />
-<img src="https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000" />
+<img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Framer%20Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" />
 
-<!-- Backend -->
-<h3>⚙️ Backend</h3>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,firebase&theme=dark&perline=6" />
+<h3>⚙️ Backend & Security</h3>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,docker&theme=dark&perline=6" />
 <br><br>
 <img src="https://img.shields.io/badge/-Java-FF6B6B?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" />
 
-<!-- Databases -->
-<h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark&perline=6" />
-<br><br>
+<h3>🔗 API & Data</h3>
+<img src="https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000" />
-
-<!-- Cloud / Deployment -->
-<h3>☁️ Cloud & Deployment</h3>
-<img src="https://skillicons.dev/icons?i=vercel,firebase&theme=dark&perline=6" />
-<br><br>
-<img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
-
-<!-- Tools & Testing -->
-<h3>🧪 Tools & Testing</h3>
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman&theme=dark&perline=6" />
-<br><br>
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000" />
+
+<h3>🛠️ IDE & Design Tools</h3>
+<img src="https://skillicons.dev/icons?i=idea,vscode,figma,git,github&theme=dark&perline=5" />
+<br><br>
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000" />
 
 </div>
 
@@ -181,7 +170,7 @@ const tharusha = {
   </a>
 
   <!-- Portfolio -->
-  <a href="https://my-portfolio-d2648.web.app" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/>
   </a>
 
