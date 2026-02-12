@@ -87,12 +87,21 @@
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000" />
-
 </div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### 🏗️ Design Patterns & Architecture
+
+<div align="center">
+<br />
+<img src="https://img.shields.io/badge/-MVC%20Architecture-FF6B6B?style=for-the-badge&logo=codacy&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Layered%20Architecture-4A90E2?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Microservices-00C7B7?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Analytics
 
