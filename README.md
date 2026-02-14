@@ -38,7 +38,7 @@
   - 📫 **Contact**: **sandaruwantharusha968@gmail.com**
   - 🔗 **LinkedIn**: [tharusha-sandaruwan-dahanayaka](https://www.linkedin.com/in/tharusha-sandaruwan-dahanayaka/)
   - * 📺 **YouTube**: [Tharusha Sandaruwan](https://www.youtube.com/@tharusha_sandaruwan) 🎥
-  - 🌐 **Portfolio**: [Live Portfolio](#) ✨
+  - 🌐 **Portfolio**: [Live Portfolio](https://tharusha-sandaruwan.vercel.app/) ✨
 
 </div>
 
@@ -179,7 +179,7 @@ const tharusha = {
   </a>
 
   <!-- Portfolio -->
-  <a href="#" target="_blank">
+  <a href="https://tharusha-sandaruwan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/>
   </a>
 
