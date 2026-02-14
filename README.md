@@ -31,7 +31,7 @@
 <div align="left">
 
   - 🎓 I'm **Tharusha Sandaruwan Dahanayaka**, a passionate **Software Engineer** from Sri Lanka 🇱🇰
-  - 💡 **Tech Stack**: `Java` • `JavaScript` • `HTML` • `CSS` • `MySQL` • `Spring Boot` • `React` • `MongoDB` • `TypeScript`
+  - 💡 **Tech Stack**: `Java` • `Spring Boot` • `Spring Security` • `JavaScript` • `TypeScript` • `React` • `React Native` • `Expo` • `HTML` • `CSS` • `Tailwind CSS` • `Bootstrap` • `Node.js` • `Express` • `Python` • `MySQL` • `MongoDB` • `Docker` • `Hibernate` • `JWT` • `Axios` • `Postman` • `Figma` • `Canva` • `VS Code` • `IntelliJ IDEA` • `Git` • `GitHub`
   - 🌟 **Focus**: Building elegant, responsive web applications with clean code
   - 🎯 **Goal**: Becoming a Full-Stack Developer and contributing to open source
   - 💻 **Current Project**: Working on innovative web solutions
