@@ -87,6 +87,13 @@
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000" />
+
+<h3>☁️ Cloud & Deployment</h3>
+<img src="https://skillicons.dev/icons?i=azure,firebase,vercel&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white&labelColor=000000" />
 
 <h3>🛠️ IDE & Design Tools</h3>
@@ -98,6 +105,13 @@
 <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=000000" />
+
+<h3>🛠️ Operating System </h3>
+<img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000" />
+
 </div>
 
 
