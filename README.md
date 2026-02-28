@@ -50,7 +50,7 @@
 <div align="center"> 
 
 <h3>🚀 Frontend</h3> 
-<img src="https://skillicons.dev/icons?i=react,react,expo,typescript,tailwind,bootstrap,javascript,html,css,redux,jquery&theme=dark&perline=11" />
+<img src="https://skillicons.dev/icons?i=react,react,typescript,tailwind,bootstrap,javascript,html,css,redux,jquery&theme=dark&perline=10" />
 <br><br>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000" />
 <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000" />
